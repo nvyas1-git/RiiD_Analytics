@@ -7,5 +7,13 @@ Riid_Analytics
 # Project Flow
 <img src=https://github.com/nvyas1-git/RiiD_Analytics/blob/main/images/projectFlow.jpg>
 
+##########################################
+
+##########################################
+
+##########################################
+
+<img src = https://github.com/nvyas1-git/RiiD_Analytics/blob/main/images/CodeFlow.jpg>
+
 References:
 https://github.com/riiid/ednet
